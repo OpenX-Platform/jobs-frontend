@@ -1,1 +1,1 @@
-# jobs-frontend
+# open-jobs
